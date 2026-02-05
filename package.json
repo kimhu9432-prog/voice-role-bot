@@ -1,7 +1,7 @@
 {
   "name": "voice-role-bot",
   "version": "1.0.0",
-  "description": "Give role after 30 minutes in voice channel",
+  "description": "Discord voice time role bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -10,3 +10,4 @@
     "discord.js": "^14.14.1"
   }
 }
+
