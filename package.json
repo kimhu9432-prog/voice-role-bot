@@ -1,0 +1,12 @@
+{
+  "name": "voice-role-bot",
+  "version": "1.0.0",
+  "description": "Give role after 30 minutes in voice channel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
